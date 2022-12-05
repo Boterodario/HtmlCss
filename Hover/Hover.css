@@ -1,0 +1,17 @@
+button{
+
+    background: rgb(130, 238, 148);
+    color: rgb(61, 61, 131);
+}
+
+button:hover{
+
+
+    background: wheat;
+
+}
+
+button:active{
+
+    background: #FB2576;
+}
